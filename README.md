@@ -50,7 +50,7 @@ git clone https://github.com/codewithsadee/homeverse.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Linkediln](www.linkedin.com/in/rayane-saadallah-5a42a5254).
+If you want to contact with me you can reach me at [Linkediln](https://www.linkedin.com/in/rayane-saadallah-5a42a5254/).
 
 ### License
 
